@@ -1,3 +1,4 @@
 ## Hi there 👋
--     I’m currently working on Life Science & Technology
--     I’m currently learning at the TU Delft
+-     I’m currently working on metaproteomics for Environmental Biotechnology
+-     Master Student in Life Science & Technology
+-     TU Delft
